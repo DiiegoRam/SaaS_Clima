@@ -1,0 +1,3 @@
+ibmcloudant
+ibm-cloud-sdk-core
+requests
